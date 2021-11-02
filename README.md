@@ -1,1 +1,1 @@
-# EntregableDiagrama
+Trabajo práctico individual entregable
